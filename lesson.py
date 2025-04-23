@@ -1,1 +1,1 @@
-print("ya")
+print("t2")
